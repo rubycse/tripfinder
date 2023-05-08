@@ -1,0 +1,10 @@
+.*
+!.gitignore
+!.mvn/wrapper/maven-wrapper.jar
+*.iws
+*.iml
+*.ipr
+target
+build
+out
+classes
